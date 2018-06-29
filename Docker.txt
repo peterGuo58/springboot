@@ -1,0 +1,11 @@
+peterGuo58/springboot
+
+CentOS:
+sudu yam update
+
+sudu yam install docker
+
+ubantu:
+sudo apt-get update
+
+sudu apt-get docker.io		
